@@ -20,7 +20,7 @@ The SYCLomatic development branch is the SYCLomatic branch.
 
 ## Releases
 
-Daily builds of the SYCLomatic branch on Linux and Windows* are available at
+ Daily builds of the SYCLomatic branch on Linux and Windows* are available at
 [releases](/../../releases).
 A few times a year, we publish Release Notes to
 highlight all important changes made in the project: features implemented and
